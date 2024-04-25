@@ -7,3 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<b>This is a job portal application where user can easily search and apply their application accordingly as well as user can easily post multiple jobs.</b>
+<b>there also a admin portion who can see all user, job, application as well as they can edit and delete all things.</b>
